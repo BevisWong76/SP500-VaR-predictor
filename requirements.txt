@@ -1,0 +1,13 @@
+ipykernel
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+arch
+scipy
+arviz
+pymc
+pytensor
+tqdm
