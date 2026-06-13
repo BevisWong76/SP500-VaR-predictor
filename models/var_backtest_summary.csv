@@ -1,3 +1,3 @@
 Model,Observed Breaches,Breach Rate (%),LR Statistic,p-value,Kupiec Test Result
-Frequentist (MLE Rolling),16,3.54%,2.2494,0.1337,PASS
-Bayesian (PyMC MCMC),21,4.65%,0.1220,0.7269,PASS
+Frequentist (MLE Rolling),18,4.29%,0.4731,0.4916,PASS
+Bayesian (PyMC MCMC),21,5.00%,-0.0000,1.0000,PASS
